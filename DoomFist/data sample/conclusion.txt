@@ -1,0 +1,30 @@
+conclusion
+
+slam Ay>1 Ax:vary Gx:-100(-200) -> Gx:-250(200) ->Gx:-250(200)
+
+upper_cut  Ay:1.x Ax:-1.9(-2.0) Gx <= ~100 Gy ~250 -> A Gx:-250 Gy:-250
+													-> Ax: -2.0
+
+
+meteor_strike Ay:(0.8)1.0(2.0) Ax:-1.5(-2)  Gx:250 -> Gy ~(-90)(-100)(-150)
+
+like slam
+
+
+charge Ay>1.5 Ax<0.5 Azmaybe<0.5 Gx Gy Gz < 120(130)
+uncharge Ay = 2 Ax = -2 Gz < -250
+
+----------------------------------------
+uppercut ax < -1.5 , ay >= 1.4 ,-110 <= gx <= 110, gy >250, gz > 150 
+
+slam ax vary , ay >= 1.4 ,gx <= -250, gy < 0,gz < 140 ,
+
+charge abs(ax) < 1, abs(az) < 1, ay <-1.2, gx gy gz abs < 100
+
+uppercut ax < -1.2 , ay >= 0.7 ,gx >= 250, abs(gy) <150 , gz > 250
+
+slam -> wait rest -> 1
+uppercut -> wait rest -> wait ex slam
+
+
+
