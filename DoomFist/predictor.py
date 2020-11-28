@@ -13,7 +13,7 @@ pg.FAILSAFE = False
 
 defaultdict = {'gx':0.0,'gy':0.0,'gz':0.0,'ax':0.0,'ay':0.0,'az':0.0}
 defaultlist = [0.0 for i in range(5)]
-class AIdata: #<--------------------------this shit
+class AIdata:
         def __init__(self):
                 self.mCap = 5 #change size here
                 self.mSize = 0
